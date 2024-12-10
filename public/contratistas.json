@@ -1,0 +1,23 @@
+[
+    {
+      "id": 30282839020,
+      "razonSocial": "Contratista A",
+      "pais": "Argentina",
+      "emailContactoComercial": "nombrecontrato@yahoo.hotmail.net",
+      "origen": "Nacional",
+      "estudio": "sese dede",
+      "sede": "sede 18",
+      "estado": "Activo"
+    },
+    {
+      "id": 29838929939,
+      "razonSocial": "Contratista B",
+      "pais": "Bolivia",
+      "emailContactoComercial": "contratosraul@gmail.com",
+      "origen": "Internacional",
+      "estudio": "dede sese",
+      "sede": "sede catorce",
+      "estado": "Inactivo"
+    }
+  ]
+  
